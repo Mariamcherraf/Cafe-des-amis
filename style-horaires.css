@@ -1,0 +1,23 @@
+table{
+    background-color: #EEE0CB;
+    border-collapse: collapse;
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+}
+
+th{ 
+    height: 50px;
+    width: 100px;
+    background-color: #839788;
+    color: white;
+    font-weight: lighter;
+}
+td{
+    border-width: 5px;
+    border-color: black;
+}
+tbody{
+    border: black;
+    width: 5px;
+}
